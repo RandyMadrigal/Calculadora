@@ -1,0 +1,12 @@
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\bin\Debug\net5.0\CapaLogica.deps.json
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\bin\Debug\net5.0\CapaLogica.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\bin\Debug\net5.0\ref\CapaLogica.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\bin\Debug\net5.0\CapaLogica.pdb
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\obj\Debug\net5.0\CapaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\obj\Debug\net5.0\CapaLogica.AssemblyInfoInputs.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\obj\Debug\net5.0\CapaLogica.AssemblyInfo.cs
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\obj\Debug\net5.0\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\obj\Debug\net5.0\CapaLogica.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\obj\Debug\net5.0\ref\CapaLogica.dll
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\obj\Debug\net5.0\CapaLogica.pdb
+C:\Users\Randy\Desktop\Lenguajes de Programacion\C#\Calculadora\CapaLogica\obj\Debug\net5.0\CapaLogica.csproj.AssemblyReference.cache

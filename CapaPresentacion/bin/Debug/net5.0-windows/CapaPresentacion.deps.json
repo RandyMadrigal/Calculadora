@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CapaPresentacion/1.0.0": {
+        "dependencies": {
+          "CapaLogica": "1.0.0"
+        },
+        "runtime": {
+          "CapaPresentacion.dll": {}
+        }
+      },
+      "CapaLogica/1.0.0": {
+        "runtime": {
+          "CapaLogica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapaPresentacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CapaLogica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
